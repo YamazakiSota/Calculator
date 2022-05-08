@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "94efe385e6811bf359d0a6ccd9cedc31f1504a148bbc054d96594e55bff47e1f"
+    }
+  ],
+  "containerPath" : "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/Calculator.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/DerivedData/Calculator/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/DerivedData/Calculator/Build/Products",
+      "derivedDataPath" : "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/DerivedData/Calculator/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/DerivedData/Calculator/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/DerivedData/Calculator/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone11,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.4.1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008020-000E09C13A0B002E",
+          "TARGET_DEVICE_MODEL" : "iPhone11,2",
+          "TARGET_DEVICE_OS_VERSION" : "15.4.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

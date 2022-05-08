@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1651123222, 687563896]
+build_end_time: [1651123251, 112933158]
+inputs:
+  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/Calculator/AppDelegate.swift": [1651075674, 302000045]
+  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/Calculator/SceneDelegate.swift": [1651075674, 311093330]
+  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Calculator/Calculator/ViewController.swift": [1651078531, 883496522]
